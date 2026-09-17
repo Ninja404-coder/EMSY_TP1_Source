@@ -56,7 +56,8 @@ Workstation Player, à l’aide d’une image disque (ISO).
 
 **G.** Lancement du live CD : 
 
-[Placer votre capture d'écran]() 
+<img width="1456" height="646" alt="image" src="https://github.com/user-attachments/assets/68f7a32d-8c81-4b51-8266-60bd9bbd48a7" />
+
 
 Shell Linux : 
 
