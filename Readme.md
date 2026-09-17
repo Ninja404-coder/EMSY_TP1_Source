@@ -80,7 +80,7 @@ Q3. disposition du le clavier français ?
 
 **H.** Déplacez-vous à la **racine du système** en utilisant la commande suivante : `cd` 
 
-Q4. vore commande ?!
+Q4. cd\
 
 **I.** Affichez le contenu de la racine avec la commande : `ls –l`	
 
