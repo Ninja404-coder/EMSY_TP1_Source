@@ -56,7 +56,8 @@ Workstation Player, à l’aide d’une image disque (ISO).
 
 **G.** Lancement du live CD : 
 
-<img width="1456" height="646" alt="image" src="https://github.com/user-attachments/assets/68f7a32d-8c81-4b51-8266-60bd9bbd48a7" />
+<img width="636" height="292" alt="image" src="https://github.com/user-attachments/assets/40ca6875-a661-4b97-a004-ca1761e92f9a" />
+
 
 
 Shell Linux : 
