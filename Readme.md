@@ -84,7 +84,8 @@ Q4. cd/
 
 **I.** Affichez le contenu de la racine avec la commande : `ls –l`	
 
-![Placer votre capture d'écran]() 
+<img width="716" height="390" alt="Capture ls -l" src="https://github.com/user-attachments/assets/d46ed638-22a6-4f67-8f07-66934e78e9f0" />
+
 
 Q5. Que signifie l'option `-l` avec la commande `ls` 
 
