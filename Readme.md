@@ -88,7 +88,12 @@ Q6. Décrypter la ligne où se trouve le répertoire **home**
 
 <img width="456" height="22" alt="Capture d&#39;écran 2026-09-24 150615" src="https://github.com/user-attachments/assets/b79b8d9b-90fb-4de6-a166-00b4763bdc18" />
 
-> votre réponse ?!
+> drwxr-xr-x : Les permissions séparé en trois partie. D'abord le propriétaire (rwx), ensuite le groupe (r-x) et enfin autre utilisateur (r-x)
+> 1 : Le contenu du répertoire
+> root root : Le propriétaire
+> 60 : La taille de modification
+> Sep 24 : La date de modification
+> 13:03 : L'heure de modification
 
 **J.** Créez un répertoire de travail nommé « EMSY_VosInitiales» 
 
