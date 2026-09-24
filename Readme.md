@@ -110,15 +110,15 @@ Q8. Quelle commande allez-vous utiliser pour faire ceci ?
 **K.** Dans ce répertoire, créez un fichier texte que vous nommerez `TESTSLO_XXX_XXX` et éditez celui en écrivant un texte, exemple : "TP linux by XXX et XXX".
 	   Utiliser la commande `vi`
 
-> votre commande ?! 
+> touch TESTSLO_GMO_NDC
 
 Q9. Pouvez-vous éditez un fichier uniquement avec la commande `vi` 
 
-> votre réponse ?!
+> non, il y a la commande nano.
 
 Q10. Si vous éteignez la machine virtuelle et que vous la rallumez, est-ce que le répertoire créé ci-dessus existe toujours (justifiez votre réponse) ? 
 
-> votre réponse ?!
+> non, parceque on a créé le répertoire dans un cd-live qui ne s'enregistre pas.
 
 **L.** Tapez la commande `ls -l /dev/sda` 
 
