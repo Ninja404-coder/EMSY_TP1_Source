@@ -1,14 +1,7 @@
 # TP1 - Installation Linux sur une VM - V0.4
 
 ## Groupe 
-
-1. Yazan (YAD) 		- Noé (NAM) 
-2. Siméon (SAR) 	- Gaëtan (GFR)
-3. Tristan (TCK) 	- Nicolas (NTN)
-4. Matéo (MCN) 		- Thomas (TBT)
-5. Noah (NRN) 		- Guillaume (GFE)
-6. Benjamin (BSC) 	- Valentin (VBC)
-7. Gabriel (GOM) 	- Nikola (NDC)
+Gabriel (GOM) 	- Nikola (NDC)
 
 ## But 
 
