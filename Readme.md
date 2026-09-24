@@ -99,11 +99,13 @@ Q6. Décrypter la ligne où se trouve le répertoire **home**
 
 Q7. dans quel dossier racine allez-vous le placer (justifiez votre réponse) 
 
-> votre réponse ?! 
+> Il faut placer le dossier dans répertoire de l'utilisateur courant (live)
+> <img width="264" height="65" alt="Capture d&#39;écran 2026-09-24 155031" src="https://github.com/user-attachments/assets/03788960-6627-4d21-bf59-f10f7eca63eb" />
+
 
 Q8. Quelle commande allez-vous utiliser pour faire ceci ?  
 
-> votre commande ?! 
+> mkdir EMSY_GMO_NDC
 
 **K.** Dans ce répertoire, créez un fichier texte que vous nommerez `TESTSLO_XXX_XXX` et éditez celui en écrivant un texte, exemple : "TP linux by XXX et XXX".
 	   Utiliser la commande `vi`
