@@ -93,7 +93,7 @@ L'option de commande -l vous permet d'afficher des informations détaillées sur
 
 Q6. Décrypter la ligne où se trouve le répertoire **home**    
 
-[Placer votre capture d'écran]()
+<img width="456" height="22" alt="Capture d&#39;écran 2026-09-24 150615" src="https://github.com/user-attachments/assets/b79b8d9b-90fb-4de6-a166-00b4763bdc18" />
 
 > votre réponse ?!
 
