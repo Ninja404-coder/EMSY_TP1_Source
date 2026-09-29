@@ -122,15 +122,16 @@ Q10. Si vous éteignez la machine virtuelle et que vous la rallumez, est-ce que 
 
 **L.** Tapez la commande `ls -l /dev/sda` 
 
-![Placer votre capture d'écran]() 
+<img width="399" height="19" alt="Capture d&#39;écran 2026-09-29 142251" src="https://github.com/user-attachments/assets/86a79401-9594-4d75-87bf-ab50f8f8b531" />
 
 Q11. Que signifie **sda** ? 
 
-> votre réponse ?!
+> le dossier "sda" correspond un pilote de périphérique du dossier "dev". celui ci correspond un disque dur associé pour la vm. 
 
 Q12. Quelle différence y a-t-il entre le répertoire de la question Q6 et celui du point L (justifiez votre réponse) ?
 
-> votre réponse ?!
+> Le répertoire de la Q6 est le dossier home qui contient les répertoire personnel des chaque utilisateur.
+> Le répertoire présenté ici est le dossier dev qui les pseudo fichier ou "devices" associés aux pilotes de phériphérique.
 
 ## Installation de SparkyLinux sur la VM
 
