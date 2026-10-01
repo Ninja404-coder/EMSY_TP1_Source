@@ -82,7 +82,7 @@ Q4. cd /
 
 Q5. Que signifie l'option `-l` avec la commande `ls` 
 
-L'option de commande -l vous permet d'afficher des informations détaillées sur le contenu du répertoire dans un format en colonnes qui inclut la taille, la date et l'heure de modification, le nom du fichier ou du répertoire, le propriétaire du fichier et ses permissions.
+L'option de commande -l permet d'afficher des informations détaillées sur le contenu du répertoire dans un format en colonnes qui inclut la taille, la date et l'heure de modification, le nom du fichier ou du répertoire, le propriétaire du fichier et ses permissions.
 
 Q6. Décrypter la ligne où se trouve le répertoire **home**    
 
