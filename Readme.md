@@ -141,11 +141,11 @@ Q12. Quelle différence y a-t-il entre le répertoire de la question Q6 et celui
 
 Q13. Quelle est la taille de disque minimum recommandée pour installer la distribution Sparky en mode cli 
 
-> votre réponse ?!
+> 2Go
 
 Q14. A quoi sert la partition swap ? Est-ce que ce principe existe-t-il sur les OS Microsoft Windows ? 
 
-> votre réponse ?!
+> La partition swap permet au système d'exploitation de déplacer temporairement des données de la RAM vers le disque afin de libérer de la mémoire. Oui. 
 
 Q15. Quel format pourriez-vous utiliser pour la 3ème partition afin qu’elle soit également accessible depuis un OS Microsoft ? 
 
