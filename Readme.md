@@ -149,7 +149,7 @@ Q14. A quoi sert la partition swap ? Est-ce que ce principe existe-t-il sur les 
 
 Q15. Quel format pourriez-vous utiliser pour la 3ème partition afin qu’elle soit également accessible depuis un OS Microsoft ? 
 
-> votre réponse ?!
+>Le format qu'on peut utiliser qu'il est accessible depuis un OS Microsoft est le FAT32.
 
 Q16. Durant l’installation, on vous demande deux noms d’utilisateur. A quoi correspondent-ils ? 
 
@@ -163,7 +163,8 @@ Q16. Durant l’installation, on vous demande deux noms d’utilisateur. A quoi 
 
 > sudo dpkg-reconfigure keyboard-configuration
 
-![Placer votre capture d'écran]() 
+<img width="820" height="622" alt="SparkyLinux changement language clavier" src="https://github.com/user-attachments/assets/175c3ebb-fd5d-49e5-9e6f-6ca7100a9b7d" />
+
 
 **P.** Tapez la commande : `nano -version`
 
