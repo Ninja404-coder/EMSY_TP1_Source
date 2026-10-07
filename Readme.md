@@ -157,7 +157,7 @@ Q16. Durant l’installation, on vous demande deux noms d’utilisateur. A quoi 
 
 **N.** Une fois l’installation de Linux terminée, prenez une capture d’écran du démarrage de votre système (GRUB)
 
-![Placer votre capture d'écran]() 
+<img width="621" height="420" alt="Capture d&#39;écran 2026-10-07 142856" src="https://github.com/user-attachments/assets/cbb85de5-6302-4822-9a56-80f2f531ca28" />
 
 **O.** Trouvez la ou les lignes de commande permettant de changer le clavier et procédez à la configuiration 
 
@@ -171,7 +171,7 @@ Q16. Durant l’installation, on vous demande deux noms d’utilisateur. A quoi 
 
 Q17. A quoi sert `nano` ? 
 
-> votre réponse ?!
+> Il sert a édité des fichier 
 
 **Q.** Testez si l’application `git` est installée sur votre distribution, si ce n’est pas le cas installez un client git. 
 
