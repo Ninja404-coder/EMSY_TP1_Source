@@ -161,7 +161,7 @@ Q16. Durant l’installation, on vous demande deux noms d’utilisateur. A quoi 
 
 **O.** Trouvez la ou les lignes de commande permettant de changer le clavier et procédez à la configuiration 
 
-> votre commande ?! 
+> sudo dpkg-reconfigure keyboard-configuration
 
 ![Placer votre capture d'écran]() 
 
