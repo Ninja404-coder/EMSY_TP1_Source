@@ -153,7 +153,7 @@ Q15. Quel format pourriez-vous utiliser pour la 3ème partition afin qu’elle s
 
 Q16. Durant l’installation, on vous demande deux noms d’utilisateur. A quoi correspondent-ils ? 
 
-> votre réponse ?!
+> Le premier correspond au nom du compte administrateur et le deuxième nom correspond au nom du compte standard
 
 **N.** Une fois l’installation de Linux terminée, prenez une capture d’écran du démarrage de votre système (GRUB)
 
