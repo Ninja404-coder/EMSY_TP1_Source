@@ -178,7 +178,7 @@ Q17. A quoi sert `nano` ?
 
 Q18. Comment savoir si `git` est déjà installé ? 
 
-> votre réponse ?!
+> On peut le savoir si on tape "git" ou "git --version". Si une version s'affiche, git est déjà installé sur la machine. Sinon, si un message d'erreur s'affiche ou que le programme n'est pas trouvé, il faut l'installer.
 
 > votre commande ?! 
 
