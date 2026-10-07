@@ -168,11 +168,11 @@ Q16. Durant l’installation, on vous demande deux noms d’utilisateur. A quoi 
 
 **P.** Tapez la commande : `nano -version`
 
-![Placer votre capture d'écran]() 
+<img width="498" height="112" alt="SparkyLinux code nano" src="https://github.com/user-attachments/assets/01ff5ce4-a8cf-4cfd-8168-c9a266171888" />
 
 Q17. A quoi sert `nano` ? 
 
-> Il sert a édité des fichier 
+> nano est un éditeur de texte en ligne de commande qui fonctionne directement dans le terminal.
 
 **Q.** Testez si l’application `git` est installée sur votre distribution, si ce n’est pas le cas installez un client git. 
 
@@ -188,7 +188,7 @@ Q19. Si le client `git` n'est pas installé, quelle(s) commande(s) utilisez-vous
 
 Q20. Que veut dire `apt` ? 
 
-> votre réponse ?!
+> apt veut dure Advanced Packaging Tool
 
 Q21. Est-ce que cette commande (`apt`) peut être utilisée sur toutes les distributions Linux (justifiez votre réponse)? 
 
