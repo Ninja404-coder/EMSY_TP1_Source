@@ -223,13 +223,15 @@ Q24. Qu’observez-vous dans ce répertoire ?
 **U.**	Vérifiez si le compilateur `gcc` est bien installé. Notez la version du logiciel
 
 <img width="608" height="90" alt="Capture d&#39;écran 2026-10-08 085510" src="https://github.com/user-attachments/assets/3fe1861a-97bf-485d-9598-32d0b0497ea4" />
-E
+
+
 **U-A.** Tapez les commandes suivantes :
 ```Shell 
 gcc -Wall -o fichier.o -c fichier.c 
 gcc -o fichier fichier.o 
 ```
 Remarque : « fichier » est à remplacer par le nom de votre choix
+
 
 <img width="775" height="65" alt="Capture d&#39;écran 2026-10-08 111811" src="https://github.com/user-attachments/assets/dcdf19cd-65ae-4d5e-ad9f-fe49884c179d" />
 
