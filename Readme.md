@@ -236,25 +236,21 @@ gcc -o fichier fichier.o
 Remarque : « fichier » est à remplacer par le nom de votre choix
 
 
-<img width="775" height="65" alt="Capture d&#39;écran 2026-10-08 111811" src="https://github.com/user-attachments/assets/dcdf19cd-65ae-4d5e-ad9f-fe49884c179d" />
-
 Q25. Quels sont les fichiers qui ont été générés 
 
-> votre réponse ?!
+Ce qui à été généré est le fichier EMSY_TP1.o
 
-![Placer votre capture d'écran]()
+<img width="812" height="187" alt="Clone git" src="https://github.com/user-attachments/assets/30cf7823-9628-488f-ba5b-d0cf0c2776de" />
+
 
 **V.** Entrez la commande suivante : `./fichier`
 
-![Placer votre capture d'écran]()
+<img width="616" height="99" alt="Execution de EMSY TP1_fichier" src="https://github.com/user-attachments/assets/e64cb181-d8fa-44dc-822c-808cd18b4710" />
+
 
 Q26. Que se passe-t-il ?
 
-> votre réponse ?!
-
-
-
-...A compléter...
+On a éxécuté le programme qu'on a généré. Il a un message qui affiche "Hello World"
 
 ## Tips 
 
