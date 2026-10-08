@@ -96,17 +96,18 @@ Q6. Décrypter la ligne où se trouve le répertoire **home**
 > 
 > root root : Le propriétaire
 > 
-> 60 : La taille de modification
+> 60 : La taille du répertoire en byte
 > 
-> Sep 24 : La date de modification
+> Sep 24 : La date de la dernière modification
 > 
-> 13:03 : L'heure de modification
+> 13:03 : L'heure de la dernière modification
 
 **J.** Créez un répertoire de travail nommé « EMSY_VosInitiales» 
 
 Q7. dans quel dossier racine allez-vous le placer (justifiez votre réponse) 
 
 > Il faut placer le dossier dans répertoire de l'utilisateur courant (live)
+> 
 > <img width="264" height="65" alt="Capture d&#39;écran 2026-09-24 155031" src="https://github.com/user-attachments/assets/03788960-6627-4d21-bf59-f10f7eca63eb" />
 
 
