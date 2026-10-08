@@ -216,7 +216,8 @@ Q23. Quelles sont les commandes pour changer les droits d'utilisateurs (lecture 
 
 Q24. Qu’observez-vous dans ce répertoire ?
 
-![Placer votre capture d'écran]()
+<img width="812" height="187" alt="Clone git" src="https://github.com/user-attachments/assets/adaa0b6d-ba98-4e70-9dc4-ade843bb2516" />
+
 
 **T.** Editez le fichier source `.c` avec l’éditeur de texte « nano ». -> Réalisez un petit programme en C (par exemple de type « Hello world »).
 
