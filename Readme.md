@@ -144,7 +144,40 @@ Q12. Quelle différence y a-t-il entre le répertoire de la question Q6 et celui
 
 **M.** Installez SparkyLinux
 
-![Placer vos captures d'écrans de l'installation]()
+<img width="683" height="437" alt="Sparky installer target system" src="https://github.com/user-attachments/assets/f35a09d6-6f6f-42d8-970b-6b477bb2b07f" />
+
+<img width="819" height="601" alt="Sparky installer label type selection" src="https://github.com/user-attachments/assets/c032efda-d13f-468d-ad0c-dcb2fb71331f" />
+
+<img width="1078" height="710" alt="Sparky installer Device" src="https://github.com/user-attachments/assets/caa58ae5-68ae-4a49-bcf5-b190179c8c5b" />
+
+<img width="870" height="625" alt="Sparky installer Device altered" src="https://github.com/user-attachments/assets/1c60faed-c423-4aa7-b514-c28d46dda8cf" />
+
+<img width="714" height="486" alt="Sparky installer select swap" src="https://github.com/user-attachments/assets/ce0cc882-133f-4cb5-ad2b-f9645a429dd7" />
+
+<img width="626" height="373" alt="Sparky installer select partition" src="https://github.com/user-attachments/assets/28959a3f-2644-4cf7-9b9b-383c1a50aebd" />
+
+<img width="652" height="421" alt="Sparky installer mot de passe" src="https://github.com/user-attachments/assets/a555b697-dd21-4cd8-a1b5-f45cd2435655" />
+
+<img width="674" height="373" alt="Sparky installer user real name" src="https://github.com/user-attachments/assets/c9e248c0-b9b4-47d3-991d-d38424cb87fa" />
+
+<img width="726" height="419" alt="Sparky installer username" src="https://github.com/user-attachments/assets/5071228e-6508-4622-a53d-a7fdb4f24919" />
+
+<img width="669" height="377" alt="Sparky installer mot de passe pour banane" src="https://github.com/user-attachments/assets/e91af21c-718b-4171-80e5-69302011bdb4" />
+
+<img width="670" height="394" alt="Sparky installer mot de passe pour banane encore" src="https://github.com/user-attachments/assets/f351f4c6-ed67-4ffd-b020-2b86ef039b48" />
+
+<img width="699" height="409" alt="Sparky installer GRUB" src="https://github.com/user-attachments/assets/d9dbdb67-6d35-4323-9816-869e358cbf8b" />
+
+<img width="663" height="401" alt="Sparky installer bootloader" src="https://github.com/user-attachments/assets/b94814fa-5912-4c1d-a8d1-0122e4eb8d9b" />
+
+<img width="675" height="410" alt="Sparky installer system clock" src="https://github.com/user-attachments/assets/bdb127ce-6e02-47d4-a081-6184b5bd2039" />
+
+<img width="704" height="438" alt="Sparky installer verification" src="https://github.com/user-attachments/assets/b1540589-5ff9-42d1-94ed-ec989ab4e230" />
+
+<img width="683" height="386" alt="Sparky installer GUI" src="https://github.com/user-attachments/assets/17fcbe13-3cfe-4078-93ff-6815fa265f51" />
+
+<img width="705" height="408" alt="Sparky installer installation fini" src="https://github.com/user-attachments/assets/6618ce39-5b49-48ff-b556-de99eadd6e45" />
+
 
 Q13. Quelle est la taille de disque minimum recommandée pour installer la distribution Sparky en mode cli 
 
