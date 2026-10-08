@@ -180,11 +180,11 @@ Q18. Comment savoir si `git` est déjà installé ?
 
 > On peut le savoir si on tape "git" ou "git --version". Si une version s'affiche, git est déjà installé sur la machine. Sinon, si un message d'erreur s'affiche ou que le programme n'est pas trouvé, il faut l'installer.
 
-> votre commande ?! 
+git --version
 
 Q19. Si le client `git` n'est pas installé, quelle(s) commande(s) utilisez-vous pour l’installer ? 
 
-> votre commande ?! 
+> On utilisera sudo apt install git ou sudo apt-get git
 
 Q20. Que veut dire `apt` ? 
 
@@ -192,21 +192,23 @@ Q20. Que veut dire `apt` ?
 
 Q21. Est-ce que cette commande (`apt`) peut être utilisée sur toutes les distributions Linux (justifiez votre réponse)? 
 
-> votre réponse ?!
+Non. cdLa commande "apt" peut être utiliser sur Debian et Ubuntu seulement.
 
 **R.** Créez un sous-répertoire « EMSY_TP1_XXX-YYY » dans le répertoire de votre utilisateur. 
        
 **Attention** : Ici on veut que l’utilisateur (vous) ait les droits de lecture, d’écriture et d’exécution.
 
-> votre commande ?! 
+mkdir EMSY_TP1_NDC_GOM
 
 Q22. Quel est le répertoire utilisateur ?  
 
-> votre réponse ?!
+gabmouraoli (Nom défini par GMO depuis l'installation)
+banane (Nom défini par NDC depuis l'installation)
 
 Q23. Quelles sont les commandes pour changer les droits d'utilisateurs (lecture - écriture - execution) ?  
 
-> votre commande ?! 
+> chmod u-rwx
+> chmod u+rwx
 
 **S.** Dans ce répertoire, tapez la commande : `git clone https://github.com/votreDepot/EMSY_TP1_Source`
 
