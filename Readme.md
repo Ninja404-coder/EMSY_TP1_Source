@@ -89,6 +89,8 @@ Q6. Décrypter la ligne où se trouve le répertoire **home**
 <img width="456" height="22" alt="Capture d&#39;écran 2026-09-24 150615" src="https://github.com/user-attachments/assets/b79b8d9b-90fb-4de6-a166-00b4763bdc18" />
 
 > drwxr-xr-x : Les permissions séparé en trois partie. D'abord le propriétaire (rwx), ensuite le groupe (r-x) et enfin autre utilisateur (r-x)
+>
+> d : signifie répertoire (directory)
 > 
 > 1 : Le contenu du répertoire
 > 
