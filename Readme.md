@@ -218,14 +218,12 @@ Q24. Qu’observez-vous dans ce répertoire ?
 
 **T.** Editez le fichier source `.c` avec l’éditeur de texte « nano ». -> Réalisez un petit programme en C (par exemple de type « Hello world »).
 
-![Placer votre capture d'écran]()
+<img width="800" height="539" alt="Capture d&#39;écran 2026-10-08 085207" src="https://github.com/user-attachments/assets/2562f4de-7163-422b-8d69-958509221d0a" />
 
 **U.**	Vérifiez si le compilateur `gcc` est bien installé. Notez la version du logiciel
 
-> votre réponse ?!
-
-![Placer votre capture d'écran]()
-
+<img width="608" height="90" alt="Capture d&#39;écran 2026-10-08 085510" src="https://github.com/user-attachments/assets/3fe1861a-97bf-485d-9598-32d0b0497ea4" />
+E
 **U-A.** Tapez les commandes suivantes :
 ```Shell 
 gcc -Wall -o fichier.o -c fichier.c 
@@ -233,7 +231,7 @@ gcc -o fichier fichier.o
 ```
 Remarque : « fichier » est à remplacer par le nom de votre choix
 
-![Placer votre capture d'écran]()
+<img width="775" height="65" alt="Capture d&#39;écran 2026-10-08 111811" src="https://github.com/user-attachments/assets/dcdf19cd-65ae-4d5e-ad9f-fe49884c179d" />
 
 Q25. Quels sont les fichiers qui ont été générés 
 
