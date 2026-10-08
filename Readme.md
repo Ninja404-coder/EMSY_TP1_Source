@@ -139,7 +139,8 @@ Q11. Que signifie **sda** ?
 Q12. Quelle différence y a-t-il entre le répertoire de la question Q6 et celui du point L (justifiez votre réponse) ?
 
 > Le répertoire de la Q6 est le dossier home qui contient les répertoire personnel de chaque utilisateurs.
-> Le répertoire présenté ici est le dossier dev qui les pseudo fichier ou "devices" associés aux pilotes de phériphérique.
+> 
+> Le répertoire présenté ici est le dossier dev qui contien les pseudo fichier ou "devices" associés aux pilotes de phériphérique.
 
 ## Installation de SparkyLinux sur la VM
 
