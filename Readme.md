@@ -188,7 +188,7 @@ Q19. Si le client `git` n'est pas installé, quelle(s) commande(s) utilisez-vous
 
 Q20. Que veut dire `apt` ? 
 
-> apt veut dure Advanced Packaging Tool
+> apt veut dire Advanced Packaging Tool
 
 Q21. Est-ce que cette commande (`apt`) peut être utilisée sur toutes les distributions Linux (justifiez votre réponse)? 
 
