@@ -217,6 +217,7 @@ Q16. Durant l’installation, on vous demande deux noms d’utilisateur. A quoi 
 
 <img width="306" height="159" alt="Capture d&#39;écran 2026-10-28 080345" src="https://github.com/user-attachments/assets/2f774b97-a60b-472c-82e9-b30e4d589be6" />
 
+
 Q17. A quoi sert `nano` ? 
 
 > nano est un éditeur de texte en ligne de commande qui fonctionne directement dans le terminal.
