@@ -207,6 +207,9 @@ Q16. Durant l’installation, on vous demande deux noms d’utilisateur. A quoi 
 
 <img width="820" height="622" alt="SparkyLinux changement language clavier" src="https://github.com/user-attachments/assets/175c3ebb-fd5d-49e5-9e6f-6ca7100a9b7d" />
 
+> nano /etc/default/keyboard
+
+<img width="450" height="20" alt="Capture d&#39;écran 2026-10-28 080046" src="https://github.com/user-attachments/assets/630af4f1-3cbe-41f0-a718-73d2486abb22" />
 
 **P.** Tapez la commande : `nano -version`
 
